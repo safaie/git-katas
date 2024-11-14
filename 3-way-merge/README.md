@@ -8,7 +8,7 @@
 
 You again live in your own branch, this time we will be doing a bit of juggling with branches, to show how lightweight branches are in git.
 
-1. Create a branch called greeting and check it out
+1. Create a branch called greeting and switch to it
 2. Edit the greeting.txt to contain your favorite greeting
 3. Add greeting.txt files to the staging area
 4. Commit
@@ -31,6 +31,6 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 - `git add`
 - `git commit`
 - `git commit -m`
-- `git merge <branchA> <branchB>`
+- `git merge <branch-name>`
 - `git diff <branchA> <branchB>`
 - `git log --oneline --graph --all`

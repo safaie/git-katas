@@ -1,5 +1,5 @@
 ---
-maintainer: randomsort
+maintainer: JKrag
 ---
 # Git Katas
 
@@ -64,6 +64,12 @@ If you miss exercises or find errors in any of them, feel free to improve them a
 You can also make an issue so we notice an opportunity to improve!
 
 Thank you!
+
+### Celebrating success
+
+On September 6th, 2023, we reached the milestone of having 1000 stars on GitHub. Thank you all for your support! This repository would not be where it is without the valuable contributions from the community.
+
+![1000 stars](/docs/1000stars-git-katas.png)
 
 ## Cheatsheet
 
